@@ -1,0 +1,10 @@
+The energy of butanol is -232.1655798347283 kcal/mol 
+The energy of decanol is -466.3836241400086 kcal/mol 
+The energy of ethanol is -154.09130176573018 kcal/mol 
+The energy of heptanol is -349.27397687072676 kcal/mol 
+The energy of hexanol is -310.2385332251633 kcal/mol 
+The energy of methanol is -115.04800861868374 kcal/mol 
+The energy of nonanol is -427.3465180082815 kcal/mol 
+The energy of octanol is -388.3110864554743 kcal/mol 
+The energy of pentanol is -271.20138119895074 kcal/mol 
+The energy of propanol is -193.12836249728798 kcal/mol 
